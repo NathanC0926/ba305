@@ -1,0 +1,17 @@
+numpy
+jupyter
+matplotlib
+pandas
+networkx
+scikit-learn
+seaborn
+statsmodels
+gmaps
+nltk
+mlxtend
+squarify
+dmba
+graphviz
+pydotplus
+scikit-surprise
+twython
